@@ -38,7 +38,6 @@ This is a simplified UML overview that models a banking application system where
 ## UML Diagram
 Here is the UML diagram representing the design of this system:
 
-### Diagram Image
 ![UML Diagram](uml-diagram.png)
 
 ### Lucidchart Link
